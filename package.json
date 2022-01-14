@@ -1,0 +1,15 @@
+{
+  "name": "webgl-workspace",
+  "version": "1.0.0",
+  "description": "Workspace for webGL development",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ale Tom",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
